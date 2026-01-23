@@ -16,6 +16,6 @@ lang: en
 
 ---
 
-![My photo](/assets/images/MMOE20251202_0041.jpg)
+![My photo](/assets/images/image.jpg)
 
 in progress.
