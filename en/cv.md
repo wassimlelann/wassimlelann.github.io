@@ -78,3 +78,18 @@ lang: en
   
 # References
 
+- Koos Biesmeijer (koos.biesmeijer@naturalis.nl)
+  - Professor of Natural Capital (Leiden University), Scientific Director (Naturalis Biodiversity Center)
+
+- John Garvey (john.garvey@ul.ie)
+  - Professor of Risk and Finance (University of Limerick)
+
+- Christophe Rault (christophe.rault@univ-orleans.fr)
+  - Professor of Economics (University of Orléans)
+
+- Thierry Roncalli (thierry.roncalli@amundi.com)
+  - Professor of Finance (Evry Paris-Saclay University), Head of Quant Portfolio Strategy (Amundi Asset Management)
+
+- Sessi Tokpavi (sessi.tokpavi@univ-orleans.fr)
+  - Professor of Econometrics and Machine Learning (University of Orléans)
+
