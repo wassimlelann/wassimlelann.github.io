@@ -19,6 +19,6 @@ lang: fr
 
 # Bienvenue
 
-![Ma photo](/assets/images/photo.jpg)
+![Ma photo](/assets/images/image.jpg)
 
 en cours
