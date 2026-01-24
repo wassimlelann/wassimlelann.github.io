@@ -25,7 +25,7 @@ lang: en
     - *Including teaching duties in econometrics, programming, microeconomics (undergraduate and graduate levels)*
     - *PhD grant from the Ministry of Research and Higher Education*
 - Internship in Actuarial Sciences, Icare, France, June-August 2017
-    - *Risk premium modeling for mechanical breakdown insurances*
+    - *Risk premium modeling for mechanical breakdown insurance contracts*
 
 # Education
 - PhD in Economics, University of Orléans, 2023,
