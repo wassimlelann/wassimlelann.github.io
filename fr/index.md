@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A propos
+title: À propos
 lang: fr
 ---
 
@@ -16,4 +16,3 @@ lang: fr
 </nav>
 
 ---
-<img src="/assets/images/image.jpg" alt="Ma photo" style="width: 60%; border-radius: 60%; object-fit: cover;">
