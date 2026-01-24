@@ -27,4 +27,4 @@ Le Lann, W. (2026). Climate policies and the extractive investments of oil and g
 Pan, K., Raes, N., Le Lann, W., Marshall, L., Quezada Feijoo, A., Barbarossa, V., Moens, M., Anderson, S., Kleijn, R., Biesmeijer, J. (2026). Post-2020 conservation priorities are threatened by global mining. *Revise & Resubmit in Nature Communications*
 
 # Travaux en cours
-Le Lann, W., Pan, K., Barbarossa, V., Riascos, J., Biesmeijer, J. Mining threats on biodiversity: from satellite images to industry-level footprints
+Le Lann, W., Pan, K., Barbarossa, V., Riascos, J., Biesmeijer, J. (2026). Mining threats on biodiversity: from satellite images to industry-level footprints
