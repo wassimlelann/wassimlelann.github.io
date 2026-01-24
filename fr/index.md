@@ -16,8 +16,7 @@ lang: fr
 
 ---
 
-# Bienvenue
 
-<img src="/assets/images/image.jpg" alt="Ma photo" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
+<img src="/assets/images/image.jpg" alt="Ma photo" style="width: 400px; height: 400px; border-radius: 75%; object-fit: cover;">
 
 en cours
