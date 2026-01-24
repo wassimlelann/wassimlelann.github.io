@@ -29,7 +29,7 @@ lang: en
 
 # Education
 - PhD in Economics, University of Orléans, 2023,
-  - PhD thesis: [*Four essays on sustainable finance*](https://theses.univ-orleans.fr/public/2023ORLE1012_va.pdf). Fields: financial econometrics; environmental economics.
+  - *PhD thesis: [*Four essays on sustainable finance*](https://theses.univ-orleans.fr/public/2023ORLE1012_va.pdf). Fields: financial econometrics; environmental economics.*
 - Master in Econometrics and Applied Statistics, University of Orléans, 2018, *highest honours, top of the class*
 - Bachelor in Economics and Management, University Paris Nanterre, 2016
 
