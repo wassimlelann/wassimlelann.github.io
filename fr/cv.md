@@ -34,7 +34,7 @@ lang: fr
 - Licence en Économie et Gestion, Université Paris Nanterre, 2016
 
 # Positions de chercheur invité
-- Chercheur invité, Vrije Universiteit Amsterdam, Institute for Environmental Studies (IVM)
+- Chercheur invité, Institute for Environmental Studies (IVM), Vrije Universiteit Amsterdam
 - Chercheur associé, Laboratoire d'Economie d'Orléans, Université d'Orléans
 
 # Références
