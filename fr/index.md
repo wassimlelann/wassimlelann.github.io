@@ -18,6 +18,6 @@ lang: fr
 
 # Bienvenue
 
-![Ma photo](/assets/images/image.jpg)
+<img src="/assets/images/image.jpg" alt="Ma photo" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
 
 en cours
