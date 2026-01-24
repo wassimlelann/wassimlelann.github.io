@@ -19,7 +19,8 @@ lang: en
 # Peer-reviewed publications
 
 Boucher, C., Le Lann, W., Matton, S., & Tokpavi, S. (2025). Are ESG ratings informative to forecast idiosyncratic risk? Finance, 46(1), 81-129.
-!url(https://doi.org/10.3917/e.fina.pr.035)
+https://doi.org/10.3917/e.fina.pr.035
+
 # Work under revision
 Le Lann, W. (2026). Climate policies and the extractive investments of oil and gas firms. Revise & Resubmit in Resource and Energy Economics
 
