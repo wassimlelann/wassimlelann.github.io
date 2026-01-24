@@ -36,5 +36,6 @@ lang: en
 # Guest researcher positions
 - Guest researcher, Institute for Environmental Studies (IVM), Vrije Universiteit Amsterdam
 - Research associate, Laboratoire d'Économie d'Orléans, University of Orléans
+  
 # References
 
