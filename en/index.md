@@ -16,6 +16,4 @@ lang: en
 
 ---
 
-![My photo](/assets/images/image.jpg)
-
-in progress.
+<img src="/assets/images/image.jpg" alt="Ma photo" style="width: 60%; border-radius: 60%; object-fit: cover;">
