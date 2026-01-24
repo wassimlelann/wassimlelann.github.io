@@ -75,7 +75,10 @@ lang: en
 ## Outreach to institutions
 - Nature-related data webinar, Network for Greening the Financial System (NGFS) (2025)
 - Challenges in measuring ESG risks, French Financial Markets Authority (AMF) (2023)
-  
+
+# Reviewing activity
+Finance (2026), Business & Biodiversity report of the IPBES (2024), Journal of Applied Economics (2024), Revue d'Economie Française (2019)
+
 # References
 
 - Koos Biesmeijer (koos.biesmeijer@naturalis.nl)
