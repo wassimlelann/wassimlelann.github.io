@@ -17,6 +17,8 @@ lang: fr
 ---
 
 
-<img src="/assets/images/image.jpg" alt="Ma photo" style="width: 400px; height: 400px; border-radius: 75%; object-fit: cover;">
+<img src="/assets/images/image.jpg" alt="Ma photo" style="width: 600px; height: 600px; border-radius: 75%; object-fit: cover;">
+<img src="/assets/images/image.jpg" alt="Ma photo" style="width: 30%; border-radius: 75%; object-fit: cover;">
+
 
 en cours
