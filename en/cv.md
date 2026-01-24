@@ -33,5 +33,8 @@ lang: en
 - Master in Econometrics and Applied Statistics, University of Orléans, 2018, *highest honours, top of the class*
 - Bachelor in Economics and Management, University Paris Nanterre, 2016
 
+# Guest researcher positions
+- Guest researcher, Institute for Environmental Studies (IVM), Vrije Universiteit Amsterdam
+- Research associate, Laboratoire d'Économie d'Orléans, University of Orléans
 # References
 
