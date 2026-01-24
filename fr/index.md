@@ -15,7 +15,7 @@ lang: fr
 </nav>
 
 ---
-<img src="/assets/images/image.jpg" alt="Ma photo" style="width: 30%; border-radius: 50%; object-fit: cover;">
+<img src="/assets/images/image.jpg" alt="Ma photo" style="width: 45%; border-radius: 50%; object-fit: cover;">
 
 <img src="/assets/images/image.jpg" alt="Ma photo" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
 
