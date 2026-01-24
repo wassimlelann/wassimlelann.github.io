@@ -5,12 +5,13 @@ lang: fr
 ---
 
 <div class="lang-switch">
-  <a href="/en/cv">EN</a> | <a href="/fr/cv">FR</a>
+  <a href="/en/cv">EN</a> 
+  <a href="/fr/cv">FR</a>
 </div>
 
 <nav>
-  <a href="/fr/">A propos</a> | 
-  <a href="/fr/research">Recherche</a> | 
+  <a href="/fr/">A propos</a> 
+  <a href="/fr/research">Recherche</a>  
   <a href="/fr/cv">CV</a>
 </nav>
 
