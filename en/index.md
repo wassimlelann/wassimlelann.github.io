@@ -5,15 +5,14 @@ lang: en
 ---
 
 <div class="lang-switch">
-  <a href="/en/">EN</a> | <a href="/fr/">FR</a>
+  <a href="/en/">EN</a>
+  <a href="/fr/">FR</a>
 </div>
 
 <nav>
-  <a href="/en/">Home</a> | 
-  <a href="/en/research">Research</a> | 
+  <a href="/en/">Home</a> 
+  <a href="/en/research">Research</a>
   <a href="/en/cv">CV</a>
 </nav>
 
 ---
-
-<img src="/assets/images/image.jpg" alt="Ma photo" style="width: 60%; border-radius: 60%; object-fit: cover;">
