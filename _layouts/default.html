@@ -126,51 +126,29 @@
       max-width: 100%;
     }
 
-    /* Mobile responsive */
+    /* Mobile - scale down proportionally */
     @media screen and (max-width: 768px) {
-      body {
-        flex-direction: column;
-      }
-      
       .sidebar {
-        position: relative;
-        width: 100%;
-        height: auto;
-        padding: 20px;
-      }
-      
-      .sidebar img.profile-photo {
-        width: 150px;
-        height: 150px;
-        border-radius: 50%;
-      }
-      
-      .social-icons {
-        position: relative;
-        bottom: auto;
-        margin-top: 20px;
+        width: 200px;
+        padding: 15px;
       }
       
       .main-content {
-        margin-left: 0;
-        padding: 20px;
-        max-width: 100%;
+        margin-left: 230px;
+        padding: 15px;
       }
       
-      .lang-switch {
-        position: relative;
-        top: auto;
-        right: auto;
-        text-align: center;
-        margin-bottom: 15px;
+      .sidebar h1 {
+        font-size: 1.1em;
       }
       
-      nav {
-        text-align: center;
+      .social-icons {
+        bottom: 15px;
       }
       
-      nav a {
-        margin-bottom: 8px;
+      .social-icons svg {
+        width: 22px;
+        height: 22px;
       }
     }
   </style>
