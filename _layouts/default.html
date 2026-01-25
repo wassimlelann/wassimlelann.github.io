@@ -12,7 +12,7 @@
       padding: 0;
       display: flex;
       min-height: 100vh;
-      background-color: #FAFAF9;
+      background-color: #FAF8F5;
     }
    
     /* Left panel */
@@ -60,7 +60,7 @@
       padding: 30px;
       max-width: 800px;
       line-height: 1.6;
-      background-color: #FAFAF9;
+      background-color: #FAF8F5;
       color: #2C2620;
     }
    
@@ -135,13 +135,8 @@
   
   <!-- Language switch - fixed position -->
   <div class="lang-switch">
-    {% if page.lang == 'fr' %}
-      <a href="/en/{{ page.name | replace: '.md', '' }}">EN</a>
-      <a href="/fr/{{ page.name | replace: '.md', '' }}">FR</a>
-    {% else %}
-      <a href="/en/{{ page.name | replace: '.md', '' }}">EN</a>
-      <a href="/fr/{{ page.name | replace: '.md', '' }}">FR</a>
-    {% endif %}
+    <a href="{{ page.url | replace: '/fr/', '/en/' | replace: '/en/', '/en/' }}">EN</a>
+    <a href="{{ page.url | replace: '/en/', '/fr/' | replace: '/fr/', '/fr/' }}">FR</a>
   </div>
   
   <!-- Right panel -->
