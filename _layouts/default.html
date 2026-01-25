@@ -132,10 +132,16 @@
       </a>
     </div>
   </div>
+  
   <!-- Language switch - fixed position -->
   <div class="lang-switch">
-    <a href="/en/">EN</a>
-    <a href="/fr/">FR</a>
+    {% if page.lang == 'fr' %}
+      <a href="/en/{{ page.name | replace: '.md', '' }}">EN</a>
+      <a href="/fr/{{ page.name | replace: '.md', '' }}">FR</a>
+    {% else %}
+      <a href="/en/{{ page.name | replace: '.md', '' }}">EN</a>
+      <a href="/fr/{{ page.name | replace: '.md', '' }}">FR</a>
+    {% endif %}
   </div>
   
   <!-- Right panel -->
