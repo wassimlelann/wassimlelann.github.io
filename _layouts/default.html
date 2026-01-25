@@ -125,6 +125,54 @@
     img {
       max-width: 100%;
     }
+
+    /* Mobile responsive */
+    @media screen and (max-width: 768px) {
+      body {
+        flex-direction: column;
+      }
+      
+      .sidebar {
+        position: relative;
+        width: 100%;
+        height: auto;
+        padding: 20px;
+      }
+      
+      .sidebar img.profile-photo {
+        width: 150px;
+        height: 150px;
+        border-radius: 50%;
+      }
+      
+      .social-icons {
+        position: relative;
+        bottom: auto;
+        margin-top: 20px;
+      }
+      
+      .main-content {
+        margin-left: 0;
+        padding: 20px;
+        max-width: 100%;
+      }
+      
+      .lang-switch {
+        position: relative;
+        top: auto;
+        right: auto;
+        text-align: center;
+        margin-bottom: 15px;
+      }
+      
+      nav {
+        text-align: center;
+      }
+      
+      nav a {
+        margin-bottom: 8px;
+      }
+    }
   </style>
 </head>
 <body>
