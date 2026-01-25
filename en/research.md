@@ -23,5 +23,7 @@ Pan, K., Raes, N., Le Lann, W., Marshall, L., Quezada Feijoo, A., Barbarossa, V.
 
 # Work in progress
 Le Lann, W., Pan, K., Barbarossa, V., Riascos, J., Biesmeijer, J. Mining threats on biodiversity: from satellite images to industry-level footprints
+
 Khalilzadeh Silabi Z., Kostner J., Le Lann, W. Mental health at work: an econometric analysis of the French survey on occupational hazards.
+
 Le Lann W., Delozière G., Le Lann Y. Greenwashing the Talents: attracting human capital through environmental pledges.
