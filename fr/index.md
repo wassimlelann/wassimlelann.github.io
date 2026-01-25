@@ -10,6 +10,4 @@ lang: fr
   <a href="/fr/cv">CV</a>
 </nav>
 
----
-
 blablablablablablablablablablablablablablablablablablablablablablablablablablablabla
