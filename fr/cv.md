@@ -10,8 +10,6 @@ lang: fr
   <a href="/fr/cv">CV</a>
 </nav>
 
----
-
 # Expérience
 - Chercheur postdoctoral, Naturalis Biodiversity Center, Pays-Bas, depuis janvier 2024 (en cours)
     - *Modélisation des interactions entre activités industrielles et biodiversité et services écosystémiques (impacts et dépendances physiques). Unité de recherche: Biodiversity Under Global Stress. Recherche fondamentale et collaborations industrielles*
