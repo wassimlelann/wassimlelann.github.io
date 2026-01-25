@@ -10,8 +10,6 @@ lang: en
   <a href="/en/cv">CV</a>
 </nav>
 
----
-
 # Experience
 - Postdoctoral Fellow, Naturalis Biodiversity Center, Netherlands, since January 2024 (ongoing)
     - *Modelling of interactions between industrial activities and biodiversity and ecosystem services (impacts and physical dependencies). Research department: Biodiversity Under Global Stress. Includes both fundamental research and industry collaborations*
