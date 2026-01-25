@@ -4,11 +4,6 @@ title: Recherche
 lang: fr
 ---
 
-<div class="lang-switch">
-  <a href="/en/research">EN</a> 
-  <a href="/fr/research">FR</a>
-</div>
-
 <nav>
   <a href="/fr/">À propos</a> 
   <a href="/fr/research">Recherche</a> 
