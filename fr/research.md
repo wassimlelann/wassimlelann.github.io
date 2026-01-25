@@ -10,8 +10,6 @@ lang: fr
   <a href="/fr/cv">CV</a>
 </nav>
 
----
-
 # Publications scientifiques
 
 Boucher, C., Le Lann, W., Matton, S., & Tokpavi, S. (2025). Are ESG ratings informative to forecast idiosyncratic risk? *Finance*, 46(1), 81-129.
