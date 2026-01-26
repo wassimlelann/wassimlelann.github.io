@@ -131,6 +131,11 @@
       max-width: 100%;
     }
 
+    /* Mobile photo - hidden on desktop */
+    .mobile-photo {
+      display: none;
+    }
+
     /* Hamburger menu and mobile elements - hidden on desktop */
     .hamburger {
       display: none;
@@ -180,11 +185,20 @@
       }
 
       .mobile-header img.profile-photo {
-        width: 40px;
-        height: 40px;
+        display: none;
+      }
+
+      .mobile-photo {
+        display: block;
+        text-align: center;
+        margin-bottom: 20px;
+      }
+
+      .mobile-photo img {
+        width: 120px;
+        height: 120px;
         border-radius: 50%;
         object-fit: cover;
-        margin-right: 10px;
       }
 
       .mobile-header h1 {
@@ -293,7 +307,7 @@
   <!-- Mobile menu dropdown -->
   <div class="mobile-menu" id="mobileMenu">
     <nav>
-      <a href="/{{ page.lang }}/">{% if page.lang == 'fr' %}Accueil{% else %}Home{% endif %}</a>
+      <a href="/{{ page.lang }}/">{% if page.lang == 'fr' %}À propos{% else %}Home{% endif %}</a>
       <a href="/{{ page.lang }}/research">{% if page.lang == 'fr' %}Recherche{% else %}Research{% endif %}</a>
       <a href="/{{ page.lang }}/cv">CV</a>
       <a href="/{{ page.lang }}/code">Code</a>
