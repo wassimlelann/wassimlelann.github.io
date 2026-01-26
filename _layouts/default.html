@@ -131,76 +131,191 @@
       max-width: 100%;
     }
 
-    /* Mobile - scale down proportionally */
+    /* Hamburger menu and mobile elements - hidden on desktop */
+    .hamburger {
+      display: none;
+    }
+
+    .mobile-header {
+      display: none;
+    }
+
+    .mobile-menu {
+      display: none;
+    }
+
+    /* Mobile responsive */
     @media screen and (max-width: 768px) {
       html, body {
         overflow-x: hidden;
         width: 100%;
         min-height: 100%;
       }
-      
+
+      /* Hide desktop elements */
       .sidebar {
-        width: 120px;
-        padding: 10px;
+        display: none;
+      }
+
+      .lang-switch.desktop-lang {
+        display: none;
+      }
+
+      .main-content nav {
+        display: none;
+      }
+
+      /* Show mobile header */
+      .mobile-header {
+        display: flex;
+        align-items: center;
+        background-color: #C4B7A6;
+        padding: 10px 15px;
         position: fixed;
         top: 0;
-        bottom: 0;
-        height: 100%;
+        left: 0;
+        right: 0;
+        z-index: 1000;
+        height: 50px;
       }
-      
-      .sidebar img.profile-photo {
-        width: 80px;
-        height: 80px;
+
+      .mobile-header img.profile-photo {
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        object-fit: cover;
+        margin-right: 10px;
       }
-      
-      .sidebar h1 {
-        font-size: 0.75em;
+
+      .mobile-header h1 {
+        font-size: 0.85em;
+        color: #3E3630;
+        margin: 0;
+        flex-grow: 1;
       }
-      
-      .main-content {
-        margin-left: 130px;
+
+      .hamburger {
+        display: block;
+        cursor: pointer;
+        padding: 5px;
+        margin-right: 10px;
+      }
+
+      .hamburger span {
+        display: block;
+        width: 22px;
+        height: 3px;
+        background-color: #3E3630;
+        margin: 4px 0;
+      }
+
+      .mobile-header .lang-switch {
+        position: relative;
+        top: auto;
+        right: auto;
+      }
+
+      .mobile-header .lang-switch a {
+        padding: 4px 8px;
+        font-size: 0.7em;
+      }
+
+      /* Mobile dropdown menu */
+      .mobile-menu {
+        display: none;
+        position: fixed;
+        top: 70px;
+        left: 0;
+        right: 0;
+        background-color: #C4B7A6;
+        padding: 15px;
+        z-index: 999;
+        text-align: center;
+        box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+      }
+
+      .mobile-menu.active {
+        display: block;
+      }
+
+      .mobile-menu nav {
+        display: block;
+        margin-bottom: 15px;
+        padding-bottom: 0;
+      }
+
+      .mobile-menu nav a {
+        display: block;
+        margin: 8px 0;
         padding: 10px;
-        padding-top: 50px;
-        overflow-wrap: break-word;
-        word-wrap: break-word;
-        max-width: calc(100% - 130px);
         font-size: 0.9em;
       }
-      
-      .social-icons {
-        bottom: 10px;
+
+      .mobile-menu .social-icons {
+        position: relative;
+        bottom: auto;
+        margin-top: 10px;
       }
-      
-      .social-icons svg {
-        width: 18px;
-        height: 18px;
+
+      .mobile-menu .social-icons svg {
+        width: 24px;
+        height: 24px;
       }
-      
-      .social-icons a {
-        margin: 0 5px;
-      }
-      
-      nav a {
-        padding: 4px 6px;
-        margin-right: 3px;
-        margin-bottom: 5px;
-        font-size: 0.7em;
-        display: inline-block;
-      }
-      
-      .lang-switch {
-        right: 5px;
-        top: 5px;
-      }
-      
-      .lang-switch a {
-        padding: 3px 6px;
-        font-size: 0.65em;
+
+      /* Main content adjustments */
+      .main-content {
+        margin-left: 0;
+        margin-top: 70px;
+        padding: 15px;
+        max-width: 100%;
+        text-align: left;
+        font-size: 0.95em;
       }
     }
   </style>
 </head>
 <body>
+   <!-- Mobile header - only visible on mobile -->
+  <div class="mobile-header">
+    <div class="hamburger" onclick="toggleMenu()">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+    <img src="/assets/images/image.jpg" alt="Photo" class="profile-photo">
+    <h1>Dr. Wassim Le Lann</h1>
+    <div class="lang-switch">
+      <a href="{{ page.url | replace: '/fr/', '/en/' | replace: '/en/', '/en/' }}">EN</a>
+      <a href="{{ page.url | replace: '/en/', '/fr/' | replace: '/fr/', '/fr/' }}">FR</a>
+    </div>
+  </div>
+
+  <!-- Mobile menu dropdown -->
+  <div class="mobile-menu" id="mobileMenu">
+    <nav>
+      <a href="/{{ page.lang }}/">{% if page.lang == 'fr' %}Accueil{% else %}Home{% endif %}</a>
+      <a href="/{{ page.lang }}/research">{% if page.lang == 'fr' %}Recherche{% else %}Research{% endif %}</a>
+      <a href="/{{ page.lang }}/cv">CV</a>
+      <a href="/{{ page.lang }}/code">Code</a>
+    </nav>
+    <div class="social-icons">
+      <a href="https://github.com/wassimlelann" target="_blank" title="GitHub">
+        <svg viewBox="0 0 16 16" fill="currentColor">
+          <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
+        </svg>
+      </a>
+      <a href="https://www.linkedin.com/in/wassim-le-lann-00b963268/" target="_blank" title="LinkedIn">
+        <svg viewBox="0 0 24 24" fill="currentColor">
+          <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/>
+        </svg>
+      </a>
+      <a href="https://scholar.google.com/citations?user=Sn_U0FkAAAAJ&hl" target="_blank" title="Google Scholar">
+        <svg viewBox="0 0 24 24" fill="currentColor">
+          <path d="M5.242 13.769L0 9.5 12 0l12 9.5-5.242 4.269C17.548 11.249 14.978 9.5 12 9.5c-2.977 0-5.548 1.748-6.758 4.269zM12 10a7 7 0 1 0 0 14 7 7 0 0 0 0-14z"/>
+        </svg>
+      </a>
+    </div>
+  </div>
   <!-- Left panel -->
   <div class="sidebar">
     <img src="/assets/images/image.jpg" alt="Photo" class="profile-photo">
@@ -230,7 +345,7 @@
   </div>
   
   <!-- Language switch - fixed position -->
-  <div class="lang-switch">
+   <div class="lang-switch desktop-lang">
     <a href="{{ page.url | replace: '/fr/', '/en/' | replace: '/en/', '/en/' }}">EN</a>
     <a href="{{ page.url | replace: '/en/', '/fr/' | replace: '/fr/', '/fr/' }}">FR</a>
   </div>
@@ -239,5 +354,11 @@
   <div class="main-content">
     {{ content }}
   </div>
+  <script>
+    function toggleMenu() {
+      var menu = document.getElementById('mobileMenu');
+      menu.classList.toggle('active');
+    }
+  </script>
 </body>
 </html>
