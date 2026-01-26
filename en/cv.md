@@ -76,18 +76,18 @@ Finance (2026), Business & Biodiversity report of the IPBES (2024), Journal of A
 
 # References
 
-- Koos Biesmeijer (koos.biesmeijer@naturalis.nl)
+- Koos Biesmeijer (koos.biesmeijer[at]naturalis.nl)
   - Professor of Natural Capital (Leiden University), Scientific Director (Naturalis Biodiversity Center)
 
-- John Garvey (john.garvey@ul.ie)
+- John Garvey (john.garvey[at]ul.ie)
   - Professor of Risk and Finance (University of Limerick)
 
-- Christophe Rault (christophe.rault@univ-orleans.fr)
+- Christophe Rault (christophe.rault[at]univ-orleans.fr)
   - Professor of Economics (University of Orléans)
 
-- Thierry Roncalli (thierry.roncalli@amundi.com)
+- Thierry Roncalli (thierry.roncalli[at]amundi.com)
   - Professor of Finance (Evry Paris-Saclay University), Head of Quant Portfolio Strategy (Amundi Asset Management)
 
-- Sessi Tokpavi (sessi.tokpavi@univ-orleans.fr)
+- Sessi Tokpavi (sessi.tokpavi[at]univ-orleans.fr)
   - Professor of Econometrics and Machine Learning (University of Orléans)
 
