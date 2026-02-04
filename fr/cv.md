@@ -12,7 +12,7 @@ lang: fr
 </nav>
 
 # Expérience
-- Chercheur postdoctoral, Naturalis Biodiversity Center, Pays-Bas, depuis janvier 2024 (en cours)
+- Chercheur postdoctoral, Naturalis Biodiversity Center, Pays-Bas, depuis février 2024 (en cours)
     - *Modélisation des interactions entre activités industrielles et biodiversité et services écosystémiques (impacts et dépendances physiques). Unité de recherche: Biodiversity Under Global Stress. Recherche fondamentale et collaborations industrielles*
 - Attaché temporaire d'enseignement et de recherche (ATER), Université d'Orléans, France, 2021-2023 
      - *Enseignements en économétrie, programmation, microéconomie, macroéconomie aux niveaux licence et master*
