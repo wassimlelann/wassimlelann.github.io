@@ -12,7 +12,7 @@ lang: en
 </nav>
 
 # Experience
-- Postdoctoral Fellow, Naturalis Biodiversity Center, Netherlands, since January 2024 (ongoing)
+- Postdoctoral Fellow, Naturalis Biodiversity Center, Netherlands, since February 2024 (ongoing)
     - *Modelling of interactions between industrial activities and biodiversity and ecosystem services (impacts and physical dependencies). Research department: Biodiversity Under Global Stress. Includes both fundamental research and industry collaborations*
 - Temporary Teaching and Research Assistant (ATER), University of Orléans, France, 2021-2023 
      - *Teaching in econometrics, programming, microeconomics and macroeconomics at the undergraduate and graduate levels*
