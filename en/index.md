@@ -23,4 +23,4 @@ My research spans econometrics, finance, and environmental and resource economic
 
 
 
-Contact: wassim.lelann[at]naturalis.nl
+Contact: w.lelann[at]outlook.fr
