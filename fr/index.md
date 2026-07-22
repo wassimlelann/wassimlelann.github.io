@@ -22,4 +22,4 @@ Je suis actuellement chercheur postdoctoral au Naturalis Biodiversity Center (un
 Mes recherches couvrent l'économétrie, la finance, et l'économie de l'environnement et des ressources naturelles. J'utilise des données géospatiales à grande échelle et la modélisation économétrique pour étudier comment les pressions écologiques globales reconfigurent les dynamiques d’accumulation du capital et d'extraction des ressources. Mes axes méthodologiques incluent l'inférence causale, la modélisation prédictive et l'analyse géospatiale à grande échelle.
 
 
-Contact: wassim.lelann[at]naturalis.nl
+Contact: w.lelann[at]outlook.fr
