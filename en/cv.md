@@ -11,18 +11,12 @@ lang: en
   <a href="/en/cv">CV</a>
 </nav>
 
-You can view my resume below or download the PDF version.
-
-<div class="cv-preview">
+<div class="cv-container">
 
 <iframe 
     src="{{ '/assets/pdf/CV_website_EN.pdf' | relative_url }}"
-    width="100%"
-    height="900px"
-    style="border: 1px solid #ddd; border-radius: 10px;">
+    class="cv-frame">
 </iframe>
-
-<br>
 
 <a class="cv-download"
    href="{{ '/assets/pdf/CV_website_EN.pdf' | relative_url }}"
