@@ -11,9 +11,8 @@ lang: en
   <a href="/en/cv">CV</a>
 </nav>
 
-Le problème vient du fait que ton <iframe> n'a pas de hauteur définie : par défaut, un iframe fait environ 150px de haut, d'où l'aspect minuscule. Il faut lui donner une taille explicite en CSS.
+Curriculum Vitae 
 
-Voici ton code ajusté avec un bloc <style> intégré :
 <style>
 .cv-container {
   display: flex;
