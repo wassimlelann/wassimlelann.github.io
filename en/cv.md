@@ -11,14 +11,14 @@ lang: en
   <a href="/en/cv">CV</a>
 </nav>
 
-<div class="cv-container">
-  <iframe
-    src="{{ '/assets/pdf/CV_website_EN.pdf#view=FitH' | relative_url }}">
-  </iframe>
-
-  <p>
-    <a href="{{ '/assets/pdf/CV_website_EN.pdf' | relative_url }}" download>
-      Download CV (PDF)
-    </a>
-  </p>
-</div>
+<iframe
+  src="{{ '/assets/pdf/CV_website_EN.pdf' | relative_url }}"
+  style="display:block !important;
+         width:100% !important;
+         max-width:850px;
+         height:1100px !important;
+         min-height:1100px !important;
+         margin:2rem auto !important;
+         border:1px solid #ccc;
+         box-sizing:border-box;">
+</iframe>
