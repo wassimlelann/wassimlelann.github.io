@@ -13,8 +13,8 @@ lang: en
 
 <div class="cv-container" style="width: 100%; max-width: 1100px; margin: 2rem auto;">
   <iframe
-    src="{{ '/assets/pdf/CV_website_EN.pdf' | relative_url }}"
-    class="cv-frame"
-    style="display: block; width: 100%; height: 90vh; border: 1px solid #ccc; border-radius: 4px;">
-  </iframe>
+  src="{{ '/assets/pdf/CV_website_EN.pdf#view=FitH' | relative_url }}"
+  class="cv-frame"
+  style="display:block; width:100%; height:90vh; border:1px solid #ccc;">
+</iframe>
 </div>
