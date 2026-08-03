@@ -23,7 +23,7 @@ Boucher, C., Le Lann, W., Matton, S., & Tokpavi, S. (2025). Are ESG ratings info
 
 
 # Work in progress
-Le Lann, W., Pan, K., Barbarossa, V., Riascos, J., Biesmeijer, J. Mining threats to biodiversity: from satellite images to corporate footprints
+Le Lann, W., Pan, K., Barbarossa, V., Riascos, J., Biesmeijer, J. Quantifying corporate biodiversity footprints in global mining.
 
 Khalilzadeh Silabi Z., Kostner J., Le Lann, W. Mental health at work: an econometric analysis of the French survey on occupational hazards.
 
