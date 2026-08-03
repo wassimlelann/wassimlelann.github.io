@@ -11,10 +11,14 @@ lang: en
   <a href="/en/cv">CV</a>
 </nav>
 
-<div class="cv-container" style="width: 100%; max-width: 1100px; margin: 2rem auto;">
+<div class="cv-container">
   <iframe
-  src="{{ '/assets/pdf/CV_website_EN.pdf#view=FitH' | relative_url }}"
-  class="cv-frame"
-  style="display:block; width:100%; height:90vh; border:1px solid #ccc;">
-</iframe>
+    src="{{ '/assets/pdf/CV_website_EN.pdf#view=FitH' | relative_url }}">
+  </iframe>
+
+  <p>
+    <a href="{{ '/assets/pdf/CV_website_EN.pdf' | relative_url }}" download>
+      Download CV (PDF)
+    </a>
+  </p>
 </div>
