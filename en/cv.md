@@ -18,11 +18,6 @@ lang: en
     class="cv-frame">
 </iframe>
 
-<a class="cv-download"
-   href="{{ '/assets/pdf/CV_website_EN.pdf' | relative_url }}"
-   download>
-   📄 Download my Resume (PDF)
-</a>
 
 </div>
 
