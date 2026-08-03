@@ -17,10 +17,8 @@ lang: en
 
 **Welcome to my personal webpage**,
 
-I am a Postdoctoral Fellow at Naturalis Biodiversity Center (Biodiversity Under Global Stress unit), a guest researcher at the Institute for Environmental Studies at Vrije Universiteit Amsterdam, and an associate researcher at the Laboratoire d'Économie d'Orléans. I hold a Msc in Econometrics and Applied Statistics, and a PhD in Economics from the University of Orléans.
+I am an Associate Professor of Economics at the University of Lille and a researcher at LEM. Prior to this position, I was a Postdoctoral Fellow at the Naturalis Biodiversity Center within the Biodiversity Under Global Stress research unit; a Guest Researcher at the Institute for Environmental Studies at Vrije Universiteit Amsterdam; and an Associate Researcher at the Department of Economics at the University of Orléans.
 
-My research spans econometrics, finance, and environmental and resource economics. I use large geospatial datasets and econometric modelling to study how global ecological disruptions reshape capital accumulation and resource extraction dynamics. My methodological focus includes causal inference, predictive modelling, and geospatial analysis at scale.
+My research spans econometrics, finance, and environmental and resource economics. I use large geospatial datasets and quantitative modelling to study how global ecological disruptions reshape capital accumulation and resource extraction dynamics. My methodological focus includes causal inference, predictive modelling, and geospatial analysis at scale.
 
-
-
-Contact: w.lelann[at]outlook.fr
+Contact: wassim.le-lann[at]univ-lille.fr
