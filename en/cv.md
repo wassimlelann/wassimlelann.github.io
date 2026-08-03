@@ -11,26 +11,10 @@ lang: en
   <a href="/en/cv">CV</a>
 </nav>
 
-Curriculum Vitae 
-
-<style>
-.cv-container {
-  display: flex;
-  justify-content: center;
-  margin: 2rem auto;
-  max-width: 900px;
-}
-.cv-frame {
-  width: 100%;
-  height: 85vh;      /* 85% de la hauteur de la fenêtre */
-  border: 1px solid #ccc;
-  border-radius: 4px;
-}
-</style>
-
-<div class="cv-container">
-<iframe 
+<div class="cv-container" style="max-width: 850px; margin: 2rem auto;">
+  <iframe
     src="{{ '/assets/pdf/CV_website_EN.pdf' | relative_url }}"
-    class="cv-frame">
-</iframe>
+    class="cv-frame"
+    style="display: block; width: 100%; height: 85vh; border: 1px solid #ccc; border-radius: 4px;">
+  </iframe>
 </div>
