@@ -17,8 +17,8 @@ lang: fr
 
 **Bienvenue sur ma page web personnelle,**
 
-A partir de septembre, je serai Maître de conférences en sciences économiques à l'Université de Lille et chercheur au LEM. Avant d'occuper ce poste, j'ai été chercheur postdoctoral au Naturalis Biodiversity Center, au sein de l'unité de recherche Biodiversity Under Global Stress ; chercheur invité à l'Institute for Environmental Studies de la Vrije Universiteit Amsterdam ; et chercheur associé au Laboratoire d'Economie d'Orléans de l'Université d'Orléans.
+Je suis maître de conférences à l'Université de Lille et chercheur au sein du LEM (UMR CNRS 9221). Avant d'occuper ce poste, j'ai été chercheur postdoctoral au Naturalis Biodiversity Center au sein de l'unité de recherche Biodiversity Under Global Stress ; chercheur invité à l'Institute for Environmental Studies de la Vrije Universiteit Amsterdam ; et chercheur associé au Laboratoire d'Economie d'Orléans de l'Université d'Orléans.
 
-Mes recherches couvrent l'économétrie, la finance, et l'économie de l'environnement et des ressources naturelles. J'utilise des données géospatiales à grande échelle et la modélisation économétrique pour étudier comment les pressions écologiques globales reconfigurent les dynamiques d’accumulation du capital et d'extraction des ressources. Mes axes méthodologiques incluent l'inférence causale, la modélisation prédictive et l'analyse géospatiale à grande échelle.
+Mes recherches se situent à l'intersection de l'économétrie, de l'économie de l'environnement et des ressources naturelles, et de la finance. J'étudie comment l'activité économique et l'extraction des ressources naturelles contribuent et subissent les effets des changements environnementaux globaux, tels que le changement climatique et la perte de biodiversité ; la manière dont ces interactions engendrent des risques économiques et financiers ; et de quelles façons les politiques publiques peuvent contribuer au mieux à relever ces défis. Pour ce faire, je mobilise des méthodes quantitatives telles que l'inférence causale, la modélisation prédictive et l'analyse géospatiale à grande échelle.
 
-Contact: wassim.le-lann[at]univ-lille.fr
+En cas d'intérêt pour ces sujets, vous pouvez me contacter à l'adresse suivante : wassim.le-lann[at]univ-lille.fr
