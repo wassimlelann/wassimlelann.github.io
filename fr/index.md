@@ -21,4 +21,4 @@ Je suis maître de conférences à l'Université de Lille et chercheur au sein d
 
 Mes recherches se situent à l'intersection de l'économétrie, de l'économie de l'environnement et des ressources naturelles, et de la finance. J'étudie comment l'activité économique et l'extraction des ressources naturelles contribuent et subissent les effets des changements environnementaux globaux, tels que le changement climatique et la perte de biodiversité ; la manière dont ces interactions engendrent des risques économiques et financiers ; et de quelles façons les politiques publiques peuvent contribuer au mieux à relever ces défis. Pour ce faire, je mobilise des méthodes quantitatives telles que l'inférence causale, la modélisation prédictive et l'analyse géospatiale à grande échelle.
 
-En cas d'intérêt pour ces sujets, vous pouvez me contacter à l'adresse suivante : wassim.le-lann[at]univ-lille.fr
+Si ces thématiques vous intéressent, n'hésitez pas à me contacter à l'adresse suivante : wassim.le-lann[at]univ-lille.fr
