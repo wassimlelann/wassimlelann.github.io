@@ -13,7 +13,7 @@ lang: fr
 
 # Publications scientifiques
 
-Pan, K., Raes, N., Le Lann, W., Marshall, L., Quezada Feijoo, A., Barbarossa, V., Moens, M., Anderson, S., Kleijn, R., Biesmeijer, J. (2026). Post-2020 conservation priorities are threatened by global mining. *Nature Communications* [https://www.nature.com/articles/s41467-026-77626-6
+Pan, K., Raes, N., Le Lann, W., Marshall, L., Quezada Feijoo, A., Barbarossa, V., Moens, M., Anderson, S., Kleijn, R., Biesmeijer, J. (2026). Post-2020 conservation priorities are threatened by global mining. *Nature Communications*. [https://www.nature.com/articles/s41467-026-77626-6
 ](https://www.nature.com/articles/s41467-026-77626-6)
 
 Le Lann, W. (2026). Climate policies and the extractive investments of oil and gas firms. *Resource and Energy Economics*, 101570.
