@@ -22,8 +22,13 @@ Le Lann, W. (2026). Climate policies and the extractive investments of oil and g
 Boucher, C., Le Lann, W., Matton, S., & Tokpavi, S. (2025). Are ESG ratings informative to forecast idiosyncratic risk? *Finance*, 46(1), 81-129.
 [https://doi.org/10.3917/e.fina.pr.035](https://doi.org/10.3917/e.fina.pr.035)
 
+# Document de travail
+
+Le Lann, W., Pan, K., Barbarossa, V., Riascos, J., Biesmeijer, J. Quantifying corporate biodiversity footprints in global mining. Disponible ici: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7591040](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7591040)
+
+
+
 # Travaux en cours
-Le Lann, W., Pan, K., Barbarossa, V., Riascos, J., Biesmeijer, J. Quantifying corporate biodiversity footprints in global mining.
 
 Khalilzadeh Silabi Z., Kostner J., Le Lann, W. Mental health at work: an econometric analysis of the French survey on occupational hazards.
 
